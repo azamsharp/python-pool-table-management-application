@@ -1,0 +1,2 @@
+Pool Table # 7;Start Time: 2017-11-30 14:04:02;End Time: 2017-11-30 14:04:15charge per min:0.08Total charge:0.0
+Pool Table # 1;Start Time: 2017-11-30 14:06:20;End Time: 2017-11-30 14:06:46charge per min:0.08Total charge:0.0
